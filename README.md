@@ -3,6 +3,7 @@ This project is based on recognising hand written digits using machine learning 
 
 ### knowledge required
 Numbpy
+
 Scikit
 Pandas
 Decision Tree Classifiers
