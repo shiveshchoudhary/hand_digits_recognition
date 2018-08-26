@@ -1,20 +1,20 @@
-## Hand_digits_recognition
+# Hand_digits_recognition
 This project is based on recognising hand written digits using machine learning linear classifiers.
 
-### Knowledge required
+# Knowledge required
 Numbpy  
 Scikit  
 Pandas  
 Decision Tree Classifiers  
 
-## TESTING AND TRAINING SETS
+# TESTING AND TRAINING SETS
 [Kaggle testing and training csv file links](https://www.kaggle.com/c/digit-recognizer/data)
 
 
-### Decision Tree Classifiers
+# Decision Tree Classifiers
 Decision Tree Classifier, repetitively divides the working area(plot) into sub part by identifying lines.
 
-# Aspects 
+## Aspects 
 ### 1)IMPURITY 
 Impurity is when we have a traces of one class division into other. This can arise due to following reason
 
