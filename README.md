@@ -14,7 +14,7 @@ Decision Tree Classifiers
 ### Decision Tree Classifiers
 Decision Tree Classifier, repetitively divides the working area(plot) into sub part by identifying lines.
 
-##Aspects 
+# Aspects 
 ### 1)IMPURITY 
 Impurity is when we have a traces of one class division into other. This can arise due to following reason
 
