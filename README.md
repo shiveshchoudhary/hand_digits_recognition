@@ -2,7 +2,7 @@
 This project is based on recognising hand written digits using machine learning linear classifiers.
 
 # Knowledge required
-Numbpy  
+Numpy  
 Scikit  
 Pandas  
 Decision Tree Classifiers  
